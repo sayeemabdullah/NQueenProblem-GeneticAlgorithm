@@ -1,1 +1,1 @@
-# NQueenProblem-GeneticAlgorithm
+# N Queen Problem - GeneticAlgorithm
